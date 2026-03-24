@@ -14,3 +14,6 @@ berikut grafik perbandingan nilai tertinggi dan terendah
 
 berikut grafik data kelulusan
 ![Grafik](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.47.18.jpeg)
+
+# Dibuat oleh : Kadek Satya Giri Sardhula
+# NIM:2501010088
