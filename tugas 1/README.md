@@ -13,4 +13,4 @@ berikut grafik perbandingan nilai tertinggi dan terendah
 ![Grafik Perbandingan](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.46.49.jpeg)
 
 berikut grafik data kelulusan
-
+![Grafik](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.47.18.jpeg)
