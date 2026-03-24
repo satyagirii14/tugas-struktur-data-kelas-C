@@ -5,3 +5,8 @@ Pertama, saat memasukkan nilai menggunakan perulangan, program akan berjalan seb
 ![Grafik Nilai](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.44.25.jpeg)
 
 Selanjutnya, untuk menghitung rata-rata, program menjumlahkan semua nilai dengan sum(), yang juga harus membaca seluruh data, sehingga kompleksitasnya O(n). Untuk menghitung jumlah yang lulus (nilai ≥ 60), program kembali memeriksa semua nilai satu per satu. Jadi bagian ini juga O(n). Sementara itu, perhitungan jumlah tidak lulus hanya menggunakan operasi sederhana (pengurangan), sehingga termasuk O(1) atau konstan. Terakhir, saat mencetak semua nilai, program perlu menampilkan seluruh isi list, sehingga bagian ini juga O(n). Kesimpulannya, walaupun ada beberapa proses yang mengulang data, semuanya dilakukan secara terpisah (tidak bersarang). Maka, kompleksitas total program tetap O(n) dan bukan O(n²).
+
+![Grafik Kelulusan](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.44.43.jpeg)
+
+berikut grafik perbandingan nilai tertinggi dan terendah
+
