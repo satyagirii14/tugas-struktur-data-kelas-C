@@ -2,8 +2,6 @@
 Program ini secara keseluruhan memiliki kompleksitas waktu O(n), di mana n adalah jumlah data nilai yang dimasukkan.
 Pertama, saat memasukkan nilai menggunakan perulangan, program akan berjalan sebanyak jumlah data (10 kali). Setiap input dan penambahan ke list dilakukan dengan cepat, sehingga bagian ini termasuk O(n). Kemudian, saat mencari nilai terbesar dengan max() dan nilai terkecil dengan min(), program harus mengecek semua isi list satu per satu. Oleh karena itu, masing-masing bagian ini memiliki kompleksitas O(n). 
 
-<p align-"center">
- <img src-"https://github.com/satyagirii14/tugas-struktur-data-kelas-C/blob/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.46.49.jpeg"
-</p>
+![Grafik](https://raw.githubusercontent.com/satyagirii14/tugas-struktur-data-kelas-C/main/gambar/WhatsApp%20Image%202026-03-24%20at%2016.46.49.jpeg)
 
 Selanjutnya, untuk menghitung rata-rata, program menjumlahkan semua nilai dengan sum(), yang juga harus membaca seluruh data, sehingga kompleksitasnya O(n). Untuk menghitung jumlah yang lulus (nilai ≥ 60), program kembali memeriksa semua nilai satu per satu. Jadi bagian ini juga O(n). Sementara itu, perhitungan jumlah tidak lulus hanya menggunakan operasi sederhana (pengurangan), sehingga termasuk O(1) atau konstan. Terakhir, saat mencetak semua nilai, program perlu menampilkan seluruh isi list, sehingga bagian ini juga O(n). Kesimpulannya, walaupun ada beberapa proses yang mengulang data, semuanya dilakukan secara terpisah (tidak bersarang). Maka, kompleksitas total program tetap O(n) dan bukan O(n²).
